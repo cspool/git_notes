@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "把 Claude Code Skill 写成可执行伪代码：双 Agent 论文盲评工作流实战"
-date: 2026-06-11 16:30:00 +0800
+date: 2026-06-14 23:30:00 +0800
 categories: notes
 ---
-
-# 把 Claude Code Skill 写成可执行伪代码：双 Agent 论文盲评工作流实战
 
 大模型很擅长完成单次任务，但当任务变成多轮协作后，问题很快会从“模型会不会回答”变成：
 
